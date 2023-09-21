@@ -9,7 +9,7 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 [![Linkedin Badge](https://img.shields.io/badge/mbillah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mbillah-cse/)](https://www.linkedin.com/in/mbillah-cse/)
 [![Dev.to Badge](https://img.shields.io/badge/Masum%20Billah-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/masumbillah/)](https://dev.to/masumbillah)
 [![Youtube Badge](https://img.shields.io/badge/Masum%20Billah-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/masumbillahcse)](https://www.youtube.com/masumbillahcse)
-[![Twitter Badge](https://img.shields.io/badge/mahmudulhsn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mahmudulhsn/)](https://twitter.com/mahmudulhsn/)
+[![Twitter Badge](https://img.shields.io/badge/masum%20Billah-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mbillah.cse/)](https://twitter.com/mbillah.cse/)
 [![Facebook Badge](https://img.shields.io/badge/M%20Billah-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mbillah.cse/)](https://www.facebook.com/mbillah.cse/)
 [![Instagram Badge](https://img.shields.io/badge/Masum%20Billah-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/masumbillah.cse/)](https://instagram.com/masumbillah.cse)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://masumbillah.github.io/portfolio/)](https://masumbillah.github.io/portfolio)
@@ -34,9 +34,9 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![M H Hasib's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumbillah&show_icons=true&theme=radical)
+![Masum Billah's GitHub stats](https://github-readme-stats.vercel.app/api?username=masumbillah&show_icons=true&theme=radical)
 
-[![M H Hasib's GitHub Streak](https://streak-stats.demolab.com?user=masumbillah&theme=radical)](https://git.io/streak-stats)
+[![Masum Billah's GitHub Streak](https://streak-stats.demolab.com?user=masumbillah&theme=radical)](https://git.io/streak-stats)
 
 
 ### Latest Blog Articles
@@ -46,4 +46,4 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 - [Update existing table&#39;s column with migration without losing data in Laravel](https://dev.to/mahmudulhsn/update-existing-table-with-migration-without-losing-in-data-in-laravel-fb1)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://dev.to/mahmudulhsn/)
+▶ [...more blog articles](https://dev.to/masumbillah/)
