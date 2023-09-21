@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-I am [Masum Billah](https://masumbillah.github.io/portfolio), a full-stack web developer with real-world experience in **Laravel**, **Express JS**, **React JS**, **Next JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
+I am [Masum Billah](https://masumbillah.github.io/portfolio), a full-stack web developer with real-world experience in **Laravel**, **Node JS**, **Express JS**, **React JS**, **Next JS**, **Nuxt JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
 
 I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**](https://batterylowinteractive.com/).
 
@@ -18,6 +18,7 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel Framework](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node JS](https://img.shields.io/badge/NodeJs-%234ea94b.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![React JS](https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
@@ -25,6 +26,7 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 ![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/postgresql-777BB4?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,10 +42,5 @@ I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**
 
 
 ### Latest Blog Articles
-<!-- BLOG-POST-LIST:START -->
-- [Use SweetAlert2 with Laravel Livewire](https://dev.to/mahmudulhsn/use-sweetalert2-with-laravel-livewire-49ij)
-- [Laravel Has Many Through Relationship Explained with Example](https://dev.to/mahmudulhsn/laravel-has-many-through-relationship-explained-with-example-22p4)
-- [Update existing table&#39;s column with migration without losing data in Laravel](https://dev.to/mahmudulhsn/update-existing-table-with-migration-without-losing-in-data-in-laravel-fb1)
-<!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://dev.to/masumbillah/)
+▶ [My blog articles](https://dev.to/masumbillah/)
