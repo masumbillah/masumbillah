@@ -3,10 +3,10 @@
 
 I am [Masum Billah](https://masumbillah.github.io/portfolio), a full-stack web developer with real-world experience in **Laravel**, **Express JS**, **React JS**, **Next JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
 
-I am working as **Senior Software Engineer** in [**Arisaf Tech Ltd**](https://arisaftech.com/).
+I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**](https://batterylowinteractive.com/).
 
 
-[![Linkedin Badge](https://img.shields.io/badge/mhhasib-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mhhasib/)](https://www.linkedin.com/in/mhhasib/)
+[![Linkedin Badge](https://img.shields.io/badge/mbillah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mbillah.cse/)](https://www.linkedin.com/in/mbillah.cse/)
 [![Dev.to Badge](https://img.shields.io/badge/M%20H%20Hasib-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/mahmudulhsn/)](https://dev.to/mahmudulhsn)
 [![Youtube Badge](https://img.shields.io/badge/M%20H%20Hasib-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/mhhasib)](https://www.youtube.com/mhhasib)
 [![Twitter Badge](https://img.shields.io/badge/mahmudulhsn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mahmudulhsn/)](https://twitter.com/mahmudulhsn/)
