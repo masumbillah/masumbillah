@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-I am [Masum Billah](https://masumbillah.github.io/portfolio), a full-stack web developer with real-world experience in **Laravel**, **Node JS**, **Express JS**, **React JS**, **Next JS**, **Nuxt JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
+I am [Masum Billah](https://masumbillah.github.io/portfolio), a Sr. Full-Stack web developer with real-world experience in **Laravel**, **Node JS**, **Express JS**, **React JS**, **Next JS**, **Nuxt JS**, **Vue JS**, **Laravel Livewire**, **Alpine JS**, **Tailwind CSS**, **Bootstrap**. As well as skilled in relational and non-relational databases, and software design patterns. Also highly experienced in **REST API** and **GraphQL**. I love to share knowledge with others.
 
 I am working as **Senior Software Engineer** in [**Battery Low Interactive Ltd**](https://batterylowinteractive.com/).
 
